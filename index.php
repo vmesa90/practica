@@ -15,12 +15,6 @@
             return $resultat;
         }
         suma($a, $b);
-        
-	function resta($a,$b){
-		$resultat = $a - $b;
-		return $resultat;
-	}
-	resta($a, $b);
-	?>
+        ?>
     </body>
 </html>
