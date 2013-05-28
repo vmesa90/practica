@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // hola
+        // Versió inicial del projecte
         ?>
     </body>
 </html>
