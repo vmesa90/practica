@@ -8,5 +8,13 @@
         <?php
         // Versió inicial del projecte
         ?>
+        
+        <?
+        function suma($a,$b){
+            $resultat = $a + $b;
+            return $resultat;
+        }
+        suma($a, $b);
+        ?>
     </body>
 </html>
