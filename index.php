@@ -15,6 +15,12 @@
             return $resultat;
         }
         suma($a, $b);
+        
+        function multiplicacio($a,$b){
+            $resultat = $a * $b;
+            return $resultat;
+        }
+        multiplicacio($a, $b);
         ?>
     </body>
 </html>
