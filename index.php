@@ -7,6 +7,6 @@
     <body>
         <?php
         // Funció per fer una suma
-        ?>     
+        ?> 
     </body>
 </html>
