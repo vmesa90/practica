@@ -20,7 +20,7 @@
             $resultat = $a * $b;
             return $resultat;
         }
-        multiplicacio($a, $b);
+        multiplicacio($a, $b);  
         ?>
     </body>
 </html>
